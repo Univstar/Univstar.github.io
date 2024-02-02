@@ -60,10 +60,10 @@ author:
 
 
 # Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
+# include:
+#   - .htaccess
+#   - _pages
+#   - files
 exclude:
   - docs
   - google_scholar_crawler

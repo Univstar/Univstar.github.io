@@ -1,0 +1,54 @@
+main:
+  - title: "Programming Structural and Magnetic Anisotropy for Tailored Interaction and Control of Soft Microrobots"
+    authors: Yimo Yan, Chao Song, Zaiyi Shen, Yuechen Zhu, <strong>Xingyu Ni</strong>, Bin Wang, Michael G. Christiansen, Stavros Stavrakis, Juho S. Lintuvuori, Baoquan Chen, Andrew deMello, Simone Schuerle
+    journal: Communications Engineering. 3, Article 7. Januarry 2024.
+    doi: https://doi.org/10.1038/s44172-023-00145-5
+    image: images/teaser_commseng24.png
+    notes: Featured Article
+
+  - title: "GARM-LS: A Gradient-Augmented Reference-Map Method for Level-Set Fluid Simulation"
+    authors: Xingqiao Li*, <strong>Xingyu Ni</strong>* (joint 1st authors), Bo Zhu, Bin Wang, Baoquan Chen
+    conference: SIGGRAPH Asia
+    journal: ACM Transactions on Graphics (TOG). 42, 6, Article 192. December 2023.
+    doi: https://doi.org/10.1145/3618377
+    pdf: files/siga23levelset.pdf
+    youtube: https://youtu.be/EN2_eJ98dPg
+    bilibili: https://www.bilibili.com/video/BV1Cu4y1t7tn
+    image: images/teaser_siga23levelset.jpg
+    notes: Technical Papers Trailer
+
+  - title: "Simulation and Optimization of Magnetoelastic Thin Shells"
+    authors: Xuwen Chen, <strong>Xingyu Ni</strong>, Bo Zhu, Bin Wang, Baoquan Chen
+    conference: SIGGRAPH
+    journal: ACM Transactions on Graphics (TOG). 41, 4, Article 61. July 2022.
+    doi: https://doi.org/10.1145/3528223.3530142
+    pdf: files/sig22magnetic.pdf
+    youtube: https://youtu.be/TeHcg75m9Vw
+    bilibili: https://www.bilibili.com/video/BV17Y411T7xP
+    image: images/teaser_sig22magnetic.jpg
+
+  - title: "A Material Point Method for Nonlinearly Magnetized Materials"
+    authors: Yuchen Sun*, <strong>Xingyu Ni</strong>* (joint 1st authors), Bo Zhu, Bin Wang, Baoquan Chen
+    conference: SIGGRAPH Asia
+    journal: ACM Transactions on Graphics (TOG). 40, 6, Article 205. December 2021.
+    doi: https://doi.org/10.1145/3478513.3480541
+    pdf: files/siga21magnetic.pdf
+    youtube: https://youtu.be/2zqJ1wvverA
+    bilibili: https://www.bilibili.com/video/BV1a44y1e76n
+    image: images/teaser_siga21magnetic.jpg
+
+  - title: "A Level-Set Method for Magnetic Substance Simulation"
+    authors: <strong>Xingyu Ni</strong>, Bo Zhu, Bin Wang, Baoquan Chen
+    conference: SIGGRAPH
+    journal: ACM Transactions on Graphics (TOG). 39, 4, Article 29. August 2020.
+    doi: https://doi.org/10.1145/3386569.3392445
+    pdf: files/sig20magnetic.pdf
+    youtube: https://youtu.be/0cCJKg3Oa9U
+    bilibili: https://www.bilibili.com/video/BV1Xg4y1i7fa
+    image: images/teaser_sig20magnetic.jpg
+
+  - title: "Visual Data Analysis and Simulation Prediction for COVID-19"
+    authors: Baoquan Chen, Mingyi Shi, <strong>Xingyu Ni</strong>, Liangwang Ruan, Hongda Jiang, Heyuan Yao, Mengdi Wang, Zhenhua Song, Qiang Zhou, Tong Ge
+    journal: International Journal of Educational Excellence. 6, 1, 95–114. March 2020.
+    doi: https://doi.org/10.18562/ijee.055
+    image: images/teaser_ijee20.png
