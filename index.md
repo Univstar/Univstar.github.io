@@ -17,32 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/).
-As a member of [Visual Computing and Learning Lab](https://vcl.pku.edu.cn/), I am also advised by [Dr. Bin Wang](https://binwangbfa.github.io/) and [Prof. Mengyu Chu](https://rachelcmy.github.io/).
-My research interests lie in computer graphics and computational physics. In particular, I devote myself to physically-based simulation and rendering.
+I am currently a PhD student at [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn/) in Peking University, China, supervised by Prof. [Baoquan Chen](https://baoquanchen.info/). As a member of [Visual Computing and Learning Lab](https://vcl.pku.edu.cn/), I am also advised by Dr. [Bin Wang](https://binwangbfa.github.io/) and Prof. [Mengyu Chu](https://rachelcmy.github.io/). In terms of fluid animation, I am advised remotely by Prof. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/) at Georgia Tech, USA. Earlier, I graduated from Turing Class, Peking University in July 2020 and earned dual bachelor’s degrees in computer science and physics.
 
-I graduated from Turing Class, Peking University in July 2020 and earned dual bachelor's degrees in computer science and physics.
+My research interests lie in computer graphics and computational physics. In particular, I devote myself to physically-based simulation during the PhD career. My academic ambition is to reproduce kinetics and dynamics of the real world in a virtual counterpart, building theoretical foundations to reveal the physical principles. In the past years, I have made some advances in the simulation of natural phenomena, especially magnetic interactions. I would also love to contribute on developing simulation frameworks of both fluid and cloth in the future.
 
 
 # News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024/02* &nbsp;🎉🎉 I will present a free online course GAMES001: Mathematics in Computer Graphics in Chinese from Mar. 2024.
+- *2024/01* &nbsp;🎉🎉 Our bioengineering paper in collaboration with ETH Zurich has been accpeted to a Nature sub-journal.
+- *2023/08* &nbsp;🎉🎉 Our paper has been conditonally accepted to SIGGRAPH Asia 2023.
 
 # Publications
 
 {% include_relative _includes/publications.md %}
 
 # Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022/08* &nbsp;Winner of [**Style3D Graduate Fellowship**]() (10 recipients nationwide per year)
+- *2021/01* &nbsp;Winner of [**ByteDance Scholars Program**](https://ur.bytedance.com/scholarship) (10 recipients nationwide per year)
 
-# Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Education
+- *2020/07* &nbsp;**B.S. in Physics (Dual Degree)** &nbsp;\|&nbsp; [School of Physics, Peking University](https://www.phy.pku.edu.cn/), China
+- *2020/07* &nbsp;**B.S. in Computer Science** &nbsp;\|&nbsp; [School of EECS, Peking University](https://eecs.pku.edu.cn/), China &nbsp;\|&nbsp; Advisor: Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/)
 
-# Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Work Experience
+- *2019/08–2019/08* &nbsp;**Research assistant** &nbsp;\|&nbsp; [Department of CS, Dartmouth College](https://web.cs.dartmouth.edu/), USA &nbsp;\|&nbsp; Advisor: Prof. [Bo Zhu](https://cs.dartmouth.edu/~bozhu/)
+- *2018/07–2021/06* &nbsp;**Research assistant** &nbsp;\|&nbsp; [AICFVE, Beijing Film Academy](https://fve.bfa.edu.cn/), China &nbsp;\|&nbsp; Advisor: Dr. [Bin Wang](https://binwangbfa.github.io/)
