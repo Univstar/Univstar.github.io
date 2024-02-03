@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /404.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -32,7 +33,7 @@ My research interests lie in computer graphics and computational physics. In par
 {% include_relative _includes/publications.md %}
 
 # Honors and Awards
-- *2022/08* &nbsp;Winner of [**Style3D Graduate Fellowship**]() (10 recipients nationwide per year)
+- *2022/08* &nbsp;Winner of [**Style3D Graduate Fellowship**](https://home.style3d.com/about/fellowshipprogram) (10 recipients nationwide per year)
 - *2021/01* &nbsp;Winner of [**ByteDance Scholars Program**](https://ur.bytedance.com/scholarship) (10 recipients nationwide per year)
 
 # Education
