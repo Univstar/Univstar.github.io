@@ -18,13 +18,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn/) in Peking University, China, supervised by Prof. [Baoquan Chen](https://baoquanchen.info/). As a member of [Visual Computing and Learning Lab](https://vcl.pku.edu.cn/), I am also advised by Dr. [Bin Wang](https://binwangbfa.github.io/) and Prof. [Mengyu Chu](https://rachelcmy.github.io/). In terms of fluid animation, I am advised remotely by Prof. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/) at Georgia Tech, USA. Earlier, I graduated from Turing Class, Peking University in July 2020 and earned dual bachelor’s degrees in computer science and physics.
+I am currently a PhD student at [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn/) in Peking University, China, supervised by Prof. [Baoquan Chen](https://baoquanchen.info/). As a member of [Visual Computing and Learning Lab](https://vcl.pku.edu.cn/), I am also advised by Dr. [Bin Wang](https://binwangbfa.github.io/) and Prof. [Mengyu Chu](https://rachelcmy.github.io/). In terms of fluid animation, I am advised remotely by Prof. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/) at Georgia Tech, USA. Earlier, I graduated from Turing Class, Peking University in July 2020 and earned dual bachelor's degrees in computer science and physics.
 
 My research interests lie in computer graphics and computational physics. In particular, I devote myself to physically-based simulation during the PhD career. My academic ambition is to reproduce kinetics and dynamics of the real world in a virtual counterpart, building theoretical foundations to reveal the physical principles. In the past years, I have made some advances in the simulation of natural phenomena, especially magnetic interactions. I would also love to contribute on developing simulation frameworks of both fluid and cloth in the future.
 
 
 # News
-- *2024/02* &nbsp;🎉🎉 I will present a free online course GAMES001: Mathematics in Computer Graphics in Chinese from Mar. 2024.
+- *2024/02* &nbsp;🎉🎉 I will present a free online course *GAMES001: Mathematics in Computer Graphics* in Chinese from Mar. 2024.
 - *2024/01* &nbsp;🎉🎉 Our bioengineering paper in collaboration with ETH Zurich has been accpeted to a Nature sub-journal.
 - *2023/08* &nbsp;🎉🎉 Our paper has been conditonally accepted to SIGGRAPH Asia 2023.
 
