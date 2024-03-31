@@ -23,6 +23,7 @@ main:
     journal: ACM Transactions on Graphics (TOG). 41, 4, Article 61. July 2022.
     doi: https://doi.org/10.1145/3528223.3530142
     pdf: files/sig22magnetic.pdf
+    code: https://github.com/li-xingqiao/GARM-LS
     youtube: https://youtu.be/TeHcg75m9Vw
     bilibili: https://www.bilibili.com/video/BV17Y411T7xP
     image: images/teaser_sig22magnetic.jpg
