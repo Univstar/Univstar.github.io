@@ -24,9 +24,10 @@ My research interests lie in computer graphics and computational physics. In par
 
 
 # News
+- *2023/03* &nbsp;🎉🎉 Our two papers have been conditionally accepted to SIGGRAPH 2024 and SPM 2024.
 - *2024/02* &nbsp;🎉🎉 I will present a free online course *GAMES001: Mathematics in Computer Graphics* in Chinese from Mar. 2024.
-- *2024/01* &nbsp;🎉🎉 Our bioengineering paper in collaboration with ETH Zurich has been accpeted to a Nature sub-journal.
-- *2023/08* &nbsp;🎉🎉 Our paper has been conditonally accepted to SIGGRAPH Asia 2023.
+- *2024/01* &nbsp;🎉🎉 Our bioengineering paper in collaboration with ETH Zurich has been accepted to a Nature sub-journal.
+- *2023/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to SIGGRAPH Asia 2023.
 
 # Publications
 
