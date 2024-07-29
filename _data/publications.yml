@@ -17,7 +17,7 @@ main:
     youtube: https://youtu.be/XFkFnVEyLj8
     bilibili: https://www.bilibili.com/video/BV1er421j7SW
     image: images/teaser_sig24magnetic.jpg
-    # notes: Technical Papers Trailer
+    notes: Technical Papers Trailer
 
   - title: "Programming Structural and Magnetic Anisotropy for Tailored Interaction and Control of Soft Microrobots"
     authors: Yimo Yan, Chao Song, Zaiyi Shen, Yuechen Zhu, <strong>Xingyu Ni</strong>, Bin Wang, Michael G. Christiansen, Stavros Stavrakis, Juho S. Lintuvuori, Baoquan Chen, Andrew deMello, Simone Schuerle
