@@ -1,4 +1,12 @@
 main:
+  - title: "A Time-Dependent Inclusion-Based Method for Continuous Collision Detection between Parametric Surfaces"
+    authors: Xuwen Chen, Cheng Yu, <strong>Xingyu Ni</strong>, Mengyu Chu, Bin Wang, Baoquan Chen
+    conference: SIGGRAPH Asia
+    journal: ACM Transactions on Graphics (TOG). 43, 6, Article 223. December 2024.
+    doi: https://doi.org/10.1145/3687960
+    pdf: files/siga24ccd.pdf
+    image: images/teaser_siga24ccd.jpg
+    
   - title: "Simulating Thin Shells by Bicubic Hermite Elements"
     authors: <strong>Xingyu Ni</strong>*, Xuwen Chen* (joint 1st authors), Cheng Yu, Bin Wang, Baoquan Chen
     conference: SPM
