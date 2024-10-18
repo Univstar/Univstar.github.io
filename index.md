@@ -24,6 +24,7 @@ My research interests lie in computer graphics and computational physics. In par
 
 
 # News
+- *2024/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to SIGGRAPH Asia 2024.
 - *2024/03* &nbsp;🎉🎉 Our two papers have been conditionally accepted to SIGGRAPH 2024 and SPM 2024.
 - *2024/02* &nbsp;🎉🎉 I will present a free online course *GAMES001: Mathematics in Computer Graphics* in Chinese from Mar. 2024.
 - *2024/01* &nbsp;🎉🎉 Our bioengineering paper in collaboration with ETH Zurich has been accepted to a Nature sub-journal.
@@ -35,7 +36,7 @@ My research interests lie in computer graphics and computational physics. In par
 
 # Honors and Awards
 - *2022/08* &nbsp;Winner of [**Style3D Graduate Fellowship**](https://home.style3d.com/about/fellowshipprogram) (10 recipients nationwide per year)
-- *2021/01* &nbsp;Winner of [**ByteDance Scholars Program**](https://ur.bytedance.com/scholarship) (10 recipients nationwide per year)
+- *2021/01* &nbsp;Winner of [**ByteDance Scholars Program**](https://ur.bytedance.com/scholarship) (8 recipients nationwide per year)
 
 # Education
 - *2020/07* &nbsp;**B.S. in Physics (Dual Degree)** &nbsp;\|&nbsp; [School of Physics, Peking University](https://www.phy.pku.edu.cn/), China
