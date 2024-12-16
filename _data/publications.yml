@@ -2,15 +2,16 @@ main:
   - title: "A Time-Dependent Inclusion-Based Method for Continuous Collision Detection between Parametric Surfaces"
     authors: Xuwen Chen, Cheng Yu, <strong>Xingyu Ni</strong>, Mengyu Chu, Bin Wang, Baoquan Chen
     conference: SIGGRAPH Asia
-    journal: ACM Transactions on Graphics (TOG). 43, 6, Article 223. December 2024.
+    journal: ACM Transactions on Graphics (TOG) 43, 6, Article 223. December 2024.
     doi: https://doi.org/10.1145/3687960
     pdf: files/siga24ccd.pdf
+    code: https://github.com/xw-c/TDIB-CCD
     image: images/teaser_siga24ccd.jpg
     
   - title: "Simulating Thin Shells by Bicubic Hermite Elements"
     authors: <strong>Xingyu Ni</strong>*, Xuwen Chen* (joint 1st authors), Cheng Yu, Bin Wang, Baoquan Chen
     conference: SPM
-    journal: Computer-Aided Design. 174, Article 103734. September 2024.
+    journal: Computer-Aided Design (CAD) 174, Article 103734. September 2024.
     doi: https://doi.org/10.1016/j.cad.2024.103734
     pdf: files/spm24shells.pdf
     image: images/teaser_spm24shells.jpg
@@ -18,7 +19,7 @@ main:
   - title: "An Induce-on-Boundary Magnetostatic Solver for Grid-Based Ferrofluids"
     authors: <strong>Xingyu Ni</strong>*, Ruicheng Wang* (joint 1st authors), Bin Wang, Baoquan Chen
     conference: SIGGRAPH
-    journal: ACM Transactions on Graphics (TOG). 43, 4, Article 56. July 2024.
+    journal: ACM Transactions on Graphics (TOG) 43, 4, Article 56. July 2024.
     doi: https://doi.org/10.1145/3658124
     pdf: files/sig24magnetic.pdf
     code: https://github.com/Univstar/IoB-Ferrofluid-2D
@@ -29,7 +30,7 @@ main:
 
   - title: "Programming Structural and Magnetic Anisotropy for Tailored Interaction and Control of Soft Microrobots"
     authors: Yimo Yan, Chao Song, Zaiyi Shen, Yuechen Zhu, <strong>Xingyu Ni</strong>, Bin Wang, Michael G. Christiansen, Stavros Stavrakis, Juho S. Lintuvuori, Baoquan Chen, Andrew deMello, Simone Schuerle
-    journal: Communications Engineering. 3, Article 7. January 2024.
+    journal: Communications Engineering 3, Article 7. January 2024.
     doi: https://doi.org/10.1038/s44172-023-00145-5
     image: images/teaser_commseng24.png
     notes: Featured Article
@@ -37,7 +38,7 @@ main:
   - title: "GARM-LS: A Gradient-Augmented Reference-Map Method for Level-Set Fluid Simulation"
     authors: Xingqiao Li*, <strong>Xingyu Ni</strong>* (joint 1st authors), Bo Zhu, Bin Wang, Baoquan Chen
     conference: SIGGRAPH Asia
-    journal: ACM Transactions on Graphics (TOG). 42, 6, Article 192. December 2023.
+    journal: ACM Transactions on Graphics (TOG) 42, 6, Article 192. December 2023.
     doi: https://doi.org/10.1145/3618377
     pdf: files/siga23levelset.pdf
     code: https://github.com/li-xingqiao/GARM-LS
@@ -49,7 +50,7 @@ main:
   - title: "Simulation and Optimization of Magnetoelastic Thin Shells"
     authors: Xuwen Chen, <strong>Xingyu Ni</strong>, Bo Zhu, Bin Wang, Baoquan Chen
     conference: SIGGRAPH
-    journal: ACM Transactions on Graphics (TOG). 41, 4, Article 61. July 2022.
+    journal: ACM Transactions on Graphics (TOG) 41, 4, Article 61. July 2022.
     doi: https://doi.org/10.1145/3528223.3530142
     pdf: files/sig22magnetic.pdf
     youtube: https://youtu.be/TeHcg75m9Vw
@@ -59,7 +60,7 @@ main:
   - title: "A Material Point Method for Nonlinearly Magnetized Materials"
     authors: Yuchen Sun*, <strong>Xingyu Ni</strong>* (joint 1st authors), Bo Zhu, Bin Wang, Baoquan Chen
     conference: SIGGRAPH Asia
-    journal: ACM Transactions on Graphics (TOG). 40, 6, Article 205. December 2021.
+    journal: ACM Transactions on Graphics (TOG) 40, 6, Article 205. December 2021.
     doi: https://doi.org/10.1145/3478513.3480541
     pdf: files/siga21magnetic.pdf
     youtube: https://youtu.be/2zqJ1wvverA
@@ -69,7 +70,7 @@ main:
   - title: "A Level-Set Method for Magnetic Substance Simulation"
     authors: <strong>Xingyu Ni</strong>, Bo Zhu, Bin Wang, Baoquan Chen
     conference: SIGGRAPH
-    journal: ACM Transactions on Graphics (TOG). 39, 4, Article 29. August 2020.
+    journal: ACM Transactions on Graphics (TOG) 39, 4, Article 29. August 2020.
     doi: https://doi.org/10.1145/3386569.3392445
     pdf: files/sig20magnetic.pdf
     youtube: https://youtu.be/0cCJKg3Oa9U
@@ -78,6 +79,6 @@ main:
 
   - title: "Visual Data Analysis and Simulation Prediction for COVID-19"
     authors: Baoquan Chen, Mingyi Shi, <strong>Xingyu Ni</strong>, Liangwang Ruan, Hongda Jiang, Heyuan Yao, Mengdi Wang, Zhenhua Song, Qiang Zhou, Tong Ge
-    journal: International Journal of Educational Excellence. 6, 1, 95–114. March 2020.
+    journal: International Journal of Educational Excellence 6, 1, 95–114. March 2020.
     doi: https://doi.org/10.18562/ijee.055
     image: images/teaser_ijee20.png
