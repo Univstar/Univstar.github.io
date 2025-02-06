@@ -32,7 +32,7 @@ My research focuses on physically-based visual computing, with a specialization 
 
 # Publications
 
-- *\*: joint 1st authors, †: corresponding author(s)*
+*(\*: joint 1st authors, †: corresponding authors)*
 
 {% include_relative _includes/publications.md %}
 
