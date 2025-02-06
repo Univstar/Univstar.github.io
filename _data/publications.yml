@@ -9,7 +9,7 @@ main:
     image: images/teaser_siga24ccd.jpg
     
   - title: "Simulating Thin Shells by Bicubic Hermite Elements"
-    authors: <strong>Xingyu Ni</strong>*, Xuwen Chen*, Cheng Yu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
+    authors: <strong>Xingyu Ni</strong><sup>*</sup>, Xuwen Chen<sup>*</sup>, Cheng Yu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SPM
     journal: Computer-Aided Design (CAD) 174, Article 103734. September 2024.
     doi: https://doi.org/10.1016/j.cad.2024.103734
@@ -17,7 +17,7 @@ main:
     image: images/teaser_spm24shells.jpg
     
   - title: "An Induce-on-Boundary Magnetostatic Solver for Grid-Based Ferrofluids"
-    authors: <strong>Xingyu Ni</strong>*, Ruicheng Wang*, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
+    authors: <strong>Xingyu Ni</strong><sup>*</sup>, Ruicheng Wang<sup>*</sup>, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH
     journal: ACM Transactions on Graphics (TOG) 43, 4, Article 56. July 2024.
     doi: https://doi.org/10.1145/3658124
@@ -36,7 +36,7 @@ main:
     notes: Featured Article
 
   - title: "GARM-LS: A Gradient-Augmented Reference-Map Method for Level-Set Fluid Simulation"
-    authors: Xingqiao Li*, <strong>Xingyu Ni</strong>*, Bo Zhu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
+    authors: Xingqiao Li<sup>*</sup>, <strong>Xingyu Ni</strong><sup>*</sup>, Bo Zhu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH Asia
     journal: ACM Transactions on Graphics (TOG) 42, 6, Article 192. December 2023.
     doi: https://doi.org/10.1145/3618377
@@ -58,7 +58,7 @@ main:
     image: images/teaser_sig22magnetic.jpg
 
   - title: "A Material Point Method for Nonlinearly Magnetized Materials"
-    authors: Yuchen Sun*, <strong>Xingyu Ni</strong>*, Bo Zhu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
+    authors: Yuchen Sun<sup>*</sup>, <strong>Xingyu Ni</strong><sup>*</sup>, Bo Zhu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH Asia
     journal: ACM Transactions on Graphics (TOG) 40, 6, Article 205. December 2021.
     doi: https://doi.org/10.1145/3478513.3480541
