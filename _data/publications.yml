@@ -1,4 +1,12 @@
 main:
+  - title: "RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting"
+    authors: Qiyu Dai<sup>*</sup>, <strong>Xingyu Ni</strong><sup>*</sup>, Qianfan Shen, Wenzheng Chen<sup>†</sup>, Baoquan Chen<sup>†</sup>, Mengyu Chu<sup>†</sup>
+    conference: CVPR
+    journal: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). June 2025.
+    page: https://pku-vcl-geometry.github.io/RainyGS/
+    pdf: https://arxiv.org/pdf/2503.21442
+    image: images/teaser_cvpr25rainy.jpg
+
   - title: "A Time-Dependent Inclusion-Based Method for Continuous Collision Detection between Parametric Surfaces"
     authors: Xuwen Chen, Cheng Yu, <strong>Xingyu Ni</strong>, Mengyu Chu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH Asia
@@ -32,7 +40,7 @@ main:
     authors: Yimo Yan, Chao Song, Zaiyi Shen, Yuechen Zhu, <strong>Xingyu Ni</strong>, Bin Wang, Michael G. Christiansen, Stavros Stavrakis, Juho S. Lintuvuori, Baoquan Chen, Andrew deMello<sup>†</sup>, Simone Schuerle<sup>†</sup>
     journal: Communications Engineering 3, Article 7. January 2024.
     doi: https://doi.org/10.1038/s44172-023-00145-5
-    image: images/teaser_commseng24.png
+    image: images/teaser_commseng24.jpg
     notes: Featured Article
 
   - title: "GARM-LS: A Gradient-Augmented Reference-Map Method for Level-Set Fluid Simulation"
