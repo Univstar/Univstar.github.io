@@ -1,4 +1,12 @@
 main:
+  - title: "Representing Flow Fields with Divergence-Free Kernels for Reconstruction"
+    authors: <strong>Xingyu Ni</strong>, Jingrui Xing, Xingqiao Li, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
+    conference: SCA
+    journal: Proceedings of the ACM on Computer Graphics and Interactive Techniques (PACMCGIT) 8, 4, Article 52. August 2025.
+    doi: https://doi.org/10.1145/3747872
+    pdf: files/sca25dfk.pdf
+    image: images/teaser_sca25dfk.jpg
+
   - title: "RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting"
     authors: Qiyu Dai<sup>*</sup>, <strong>Xingyu Ni</strong><sup>*</sup>, Qianfan Shen, Wenzheng Chen<sup>†</sup>, Baoquan Chen<sup>†</sup>, Mengyu Chu<sup>†</sup>
     conference: CVPR
