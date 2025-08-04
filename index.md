@@ -29,7 +29,6 @@ My research focuses on physically-based visual computing, with a specialization 
 - *2025/02* &nbsp;🎉🎉 Our paper has been conditionally accepted to CVPR 2025.
 - *2024/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to SIGGRAPH Asia 2024.
 - *2024/03* &nbsp;🎉🎉 Our two papers have been conditionally accepted to SIGGRAPH 2024 and SPM 2024.
-- *2024/02* &nbsp;🎉🎉 I will present a free online course *GAMES001: Mathematics in Computer Graphics* in Chinese from Mar. 2024.
 
 # Publications
 
@@ -38,10 +37,10 @@ My research focuses on physically-based visual computing, with a specialization 
 {% include_relative _includes/publications.md %}
 
 # Teaching
-- *2024/03–2024/07* &nbsp;Instructor of *GAMES001: Mathematics in Computer Graphics* (online course, in Chinese)
-- *2022/09–2023/01* &nbsp;Teaching Assistant of *Introduction to Visual Computing and Interaction* (Peking University)
-- *2022/02–2022/06* &nbsp;Teaching Assistant of *Introduction to Visual Computing* (Peking University)
-- *2019/02–2019/06* &nbsp;Teaching Assistant of *Study and Practice on Topics of Frontier Computing (II)* (Peking University)
+- *2024/03–2024/07* &nbsp;Instructor of [*GAMES001: Mathematics in Computer Graphics*](https://games-cn.org/games001/) (Online, 🇨🇳)
+- *2022/09–2023/01* &nbsp;Teaching Assistant of *Introduction to Visual Computing and Interaction* (Peking University, 🇨🇳)
+- *2022/02–2022/06* &nbsp;Teaching Assistant of *Introduction to Visual Computing* (Peking University, 🇨🇳)
+- *2019/02–2019/06* &nbsp;Teaching Assistant of *Study and Practice on Topics of Frontier Computing (II)* (Peking University, 🇨🇳)
 
 # Honors and Awards
 - *2022/08* &nbsp;Winner of [**Style3D Graduate Fellowship**](https://home.style3d.com/about/fellowshipprogram) (10 recipients nationwide)
