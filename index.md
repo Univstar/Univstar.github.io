@@ -47,9 +47,9 @@ My research focuses on physically-based visual computing, with a specialization 
 - *2021/01* &nbsp;Winner of [**ByteDance Scholars Program**](https://ur.bytedance.com/scholarship) (8 recipients nationwide)
 
 # Education
-- *2025/07* &nbsp;**Ph.D. in Computer Science** &nbsp;\|&nbsp; [School of Computer Science, Peking University](https://cs.pku.edu.cn/), China
+- *2025/07* &nbsp;**Ph.D. in Computer Science** &nbsp;\|&nbsp; [School of Computer Science, Peking University](https://cs.pku.edu.cn/), China &nbsp;\|&nbsp; Supervisor: Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/)
 - *2020/07* &nbsp;**B.S. in Physics (Dual Degree)** &nbsp;\|&nbsp; [School of Physics, Peking University](https://www.phy.pku.edu.cn/), China
-- *2020/07* &nbsp;**B.S. in Computer Science** &nbsp;\|&nbsp; [School of EECS, Peking University](https://eecs.pku.edu.cn/), China &nbsp;\|&nbsp; Advisor: Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/)
+- *2020/07* &nbsp;**B.S. in Computer Science** &nbsp;\|&nbsp; [School of EECS, Peking University](https://eecs.pku.edu.cn/), China &nbsp;\|&nbsp; Supervisor: Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/)
 
 # Work Experience
 - *2019/08–2019/08* &nbsp;**Visiting Researcher** &nbsp;\|&nbsp; [Department of CS, Dartmouth College](https://web.cs.dartmouth.edu/), USA &nbsp;\|&nbsp; Advisor: Dr. [Bo Zhu](https://cs.dartmouth.edu/~bozhu/)
