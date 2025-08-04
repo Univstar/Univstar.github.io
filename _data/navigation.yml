@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#publications"
 
+  - title: "Teaching"
+    url: "/#teaching"
+
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
 
