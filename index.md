@@ -18,17 +18,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD candidate at [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn/) in Peking University, China, supervised by Prof. [Baoquan Chen](https://baoquanchen.info/). As a member of [Visual Computing and Learning Lab](https://vcl.pku.edu.cn/), I am also advised by Dr. [Bin Wang](https://binwangbfa.github.io/) and Prof. [Mengyu Chu](https://rachelcmy.github.io/). In terms of fluid animation, I am advised remotely by Prof. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/) at Georgia Tech, USA. Earlier, I graduated from Turing Class, Peking University in July 2020 and earned dual bachelor's degrees in Computer Science and Physics.
+I received my PhD in July 2025 from the [School of Computer Science](http://cs.pku.edu.cn/) at Peking University, China, where I was supervised by Prof. [Baoquan Chen](https://baoquanchen.info/). As a member of the [Visual Computing and Learning Lab](https://vcl.pku.edu.cn/), I was also advised by Dr. [Bin Wang](https://binwangbfa.github.io/) and Dr. [Mengyu Chu](https://rachelcmy.github.io/). In the area of fluid animation, I was remotely advised by Dr. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/) at Georgia Tech, USA. Earlier, I graduated from the Turing Class at Peking University in July 2020, earning dual bachelor's degrees in Computer Science and Physics.
 
 My research focuses on physically-based visual computing, with a specialization in physical simulation. My academic ambition is to comprehend and reproduce kinetics and dynamics of the real world in a virtual counterpart, building theoretical foundations to reveal the physical principles. In the past years, I have extensive experience in the creation of dynamic physical scenes, particularly in multi-physics coupling and developing novel geometric representations for high-fidelity simulation and rendering. Currently, I am exploring innovative methods to bridge physical scene creation and comprehension, and to enhance traditional graphics pipelines with AI.
 
 
 # News
+- *2025/07* &nbsp;🎉🎉 I received my PhD from Peking University.
+- *2025/05* &nbsp;🎉🎉 Our paper has been conditionally accepted to SCA 2025.
+- *2025/02* &nbsp;🎉🎉 Our paper has been conditionally accepted to CVPR 2025.
 - *2024/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to SIGGRAPH Asia 2024.
 - *2024/03* &nbsp;🎉🎉 Our two papers have been conditionally accepted to SIGGRAPH 2024 and SPM 2024.
 - *2024/02* &nbsp;🎉🎉 I will present a free online course *GAMES001: Mathematics in Computer Graphics* in Chinese from Mar. 2024.
-- *2024/01* &nbsp;🎉🎉 Our bioengineering paper in collaboration with ETH Zurich has been accepted to a Nature sub-journal.
-- *2023/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to SIGGRAPH Asia 2023.
 
 # Publications
 
@@ -36,14 +37,21 @@ My research focuses on physically-based visual computing, with a specialization 
 
 {% include_relative _includes/publications.md %}
 
+# Teaching
+- *2024/03–2024/07* &nbsp;Instructor of *GAMES001: Mathematics in Computer Graphics* (online course, in Chinese)
+- *2022/09–2023/01* &nbsp;Teaching Assistant of *Introduction to Visual Computing and Interaction* (Peking University)
+- *2022/02–2022/06* &nbsp;Teaching Assistant of *Introduction to Visual Computing* (Peking University)
+- *2019/02–2019/06* &nbsp;Teaching Assistant of *Study and Practice on Topics of Frontier Computing (II)* (Peking University)
+
 # Honors and Awards
-- *2022/08* &nbsp;Winner of [**Style3D Graduate Fellowship**](https://home.style3d.com/about/fellowshipprogram) (10 recipients nationwide per year)
-- *2021/01* &nbsp;Winner of [**ByteDance Scholars Program**](https://ur.bytedance.com/scholarship) (8 recipients nationwide per year)
+- *2022/08* &nbsp;Winner of [**Style3D Graduate Fellowship**](https://home.style3d.com/about/fellowshipprogram) (10 recipients nationwide)
+- *2021/01* &nbsp;Winner of [**ByteDance Scholars Program**](https://ur.bytedance.com/scholarship) (8 recipients nationwide)
 
 # Education
+- *2025/07* &nbsp;**Ph.D. in Computer Science** &nbsp;\|&nbsp; [School of Computer Science, Peking University](https://cs.pku.edu.cn/), China
 - *2020/07* &nbsp;**B.S. in Physics (Dual Degree)** &nbsp;\|&nbsp; [School of Physics, Peking University](https://www.phy.pku.edu.cn/), China
 - *2020/07* &nbsp;**B.S. in Computer Science** &nbsp;\|&nbsp; [School of EECS, Peking University](https://eecs.pku.edu.cn/), China &nbsp;\|&nbsp; Advisor: Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/)
 
 # Work Experience
-- *2019/08–2019/08* &nbsp;**Research assistant** &nbsp;\|&nbsp; [Department of CS, Dartmouth College](https://web.cs.dartmouth.edu/), USA &nbsp;\|&nbsp; Advisor: Prof. [Bo Zhu](https://cs.dartmouth.edu/~bozhu/)
-- *2018/07–2021/06* &nbsp;**Research assistant** &nbsp;\|&nbsp; [AICFVE, Beijing Film Academy](https://fve.bfa.edu.cn/), China &nbsp;\|&nbsp; Advisor: Dr. [Bin Wang](https://binwangbfa.github.io/)
+- *2019/08–2019/08* &nbsp;**Visiting Researcher** &nbsp;\|&nbsp; [Department of CS, Dartmouth College](https://web.cs.dartmouth.edu/), USA &nbsp;\|&nbsp; Advisor: Dr. [Bo Zhu](https://cs.dartmouth.edu/~bozhu/)
+- *2018/07–2021/06* &nbsp;**Research Intern** &nbsp;\|&nbsp; [AICFVE, Beijing Film Academy](https://fve.bfa.edu.cn/), China &nbsp;\|&nbsp; Advisor: Dr. [Bin Wang](https://binwangbfa.github.io/)
