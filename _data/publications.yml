@@ -6,6 +6,7 @@ main:
     doi: https://doi.org/10.1145/3747872
     pdf: files/sca25dfk.pdf
     image: images/teaser_sca25dfk.jpg
+    notes: Best Paper Award
 
   - title: "RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting"
     authors: Qiyu Dai<sup>*</sup>, <strong>Xingyu Ni</strong><sup>*</sup>, Qianfan Shen, Wenzheng Chen<sup>†</sup>, Baoquan Chen<sup>†</sup>, Mengyu Chu<sup>†</sup>
