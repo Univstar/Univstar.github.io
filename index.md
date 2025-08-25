@@ -24,11 +24,11 @@ My research focuses on physically-based visual computing, with a specialization 
 
 
 # News
+- *2025/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to SIGGRAPH Asia 2025.
+- *2025/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to Pacific Graphics 2025.
+- *2025/08* &nbsp;🎉🎉 Our paper has been awarded the Best Paper Award at SCA 2025.
 - *2025/07* &nbsp;🎉🎉 I received my PhD from Peking University.
-- *2025/05* &nbsp;🎉🎉 Our paper has been conditionally accepted to SCA 2025.
-- *2025/02* &nbsp;🎉🎉 Our paper has been conditionally accepted to CVPR 2025.
-- *2024/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to SIGGRAPH Asia 2024.
-- *2024/03* &nbsp;🎉🎉 Our two papers have been conditionally accepted to SIGGRAPH 2024 and SPM 2024.
+- *2025/06* &nbsp;🎉🎉 Our paper has been conditionally accepted to ICCV 2025.
 
 # Publications
 
@@ -52,5 +52,6 @@ My research focuses on physically-based visual computing, with a specialization 
 - *2020/07* &nbsp;**B.S. in Computer Science** &nbsp;\|&nbsp; [School of EECS, Peking University](https://eecs.pku.edu.cn/), China &nbsp;\|&nbsp; Supervisor: Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/)
 
 # Work Experience
+- *2024/12-2025/08* &nbsp;**Top Seed Intern** &nbsp;\|&nbsp; [ByteDance Seed](https://seed.bytedance.com/), China &nbsp;\|&nbsp; Leader: Dr. [Lu Jiang](http://www.lujiang.info/)
 - *2019/08–2019/08* &nbsp;**Visiting Researcher** &nbsp;\|&nbsp; [Department of CS, Dartmouth College](https://web.cs.dartmouth.edu/), USA &nbsp;\|&nbsp; Advisor: Dr. [Bo Zhu](https://cs.dartmouth.edu/~bozhu/)
 - *2018/07–2021/06* &nbsp;**Research Intern** &nbsp;\|&nbsp; [AICFVE, Beijing Film Academy](https://fve.bfa.edu.cn/), China &nbsp;\|&nbsp; Advisor: Dr. [Bin Wang](https://binwangbfa.github.io/)

@@ -1,4 +1,12 @@
 main:
+  - title: "Synthetic Video Enhances Physical Fidelity in Video Synthesis"
+    authors: Qi Zhao, <strong>Xingyu Ni</strong>, Ziyu Wang, Feng Cheng, Ziyan Yang, Lu Jiang<sup>†</sup>, Bohan Wang<sup>†</sup>
+    conference: ICCV
+    journal: 2025 IEEE/CVF International Conference on Computer Vision (ICCV). October 2025.
+    page: https://simulation.seaweed.video/
+    pdf: https://arxiv.org/pdf/2503.20822
+    image: images/teaser_iccv25seaweed.jpg
+    
   - title: "Representing Flow Fields with Divergence-Free Kernels for Reconstruction"
     authors: <strong>Xingyu Ni</strong>, Jingrui Xing, Xingqiao Li, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SCA
@@ -11,7 +19,8 @@ main:
   - title: "RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting"
     authors: Qiyu Dai<sup>*</sup>, <strong>Xingyu Ni</strong><sup>*</sup>, Qianfan Shen, Wenzheng Chen<sup>†</sup>, Baoquan Chen<sup>†</sup>, Mengyu Chu<sup>†</sup>
     conference: CVPR
-    journal: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). June 2025.
+    journal: 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 16153–16162. June 2025.
+    doi: https://doi.org/10.1109/CVPR52734.2025.01506
     page: https://pku-vcl-geometry.github.io/RainyGS/
     pdf: https://arxiv.org/pdf/2503.21442
     image: images/teaser_cvpr25rainy.jpg
