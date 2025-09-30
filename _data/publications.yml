@@ -1,6 +1,6 @@
 main:
   - title: "The Granule-In-Cell Method for Simulating Sand–Water Mixtures"
-    authors: Yizao Tang, Yuechen Zhu, <strong>Xingyu Ni</strong><sup>†</sup>, Baoquan Chen<sup>†</sup>
+    authors: Yizao Tang<sup>*</sup>, Yuechen Zhu<sup>*</sup>, <strong>Xingyu Ni</strong><sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH Asia
     journal: ACM Transactions on Graphics (TOG) 44, 6, Article 265. December 2025.
     doi: https://doi.org/10.1145/3763279
