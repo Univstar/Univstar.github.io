@@ -22,6 +22,8 @@ main:
     conference: Pacific Graphics
     journal: Computer Graphics Forum (CGF) 44, 7. October 2025.
     doi: https://doi.org/10.1111/cgf.70274
+    pdf: https://arxiv.org/pdf/2510.23122
+    code: https://github.com/taoningxiao/FlowCapX
     image: images/teaser_pg25flow.jpg
     
   - title: "Representing Flow Fields with Divergence-Free Kernels for Reconstruction"
