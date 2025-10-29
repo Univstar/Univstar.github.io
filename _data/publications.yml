@@ -32,6 +32,7 @@ main:
     journal: Proceedings of the ACM on Computer Graphics and Interactive Techniques (PACMCGIT) 8, 4, Article 52. August 2025.
     doi: https://doi.org/10.1145/3747872
     pdf: files/sca25dfk.pdf
+    code: https://github.com/Univstar/CFR-DFK
     image: images/teaser_sca25dfk.jpg
     notes: Best Paper Award
 
