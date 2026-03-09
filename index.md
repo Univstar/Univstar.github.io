@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral researcher at [Inria](https://www.inria.fr/en/inria-saclay-centre), France, in the [GeomeriX](https://team.inria.fr/geomerix/) team, working with Prof. [Mathieu Desbrun](https://pages.saclay.inria.fr/mathieu.desbrun/) and Dr. [Jiong Chen](https://jiongchen.github.io/). Before joining Inria, I spent several wonderful months as a postdoctoral fellow at the University of Hong Kong in the [CGVU Lab](https://hku-cg.github.io/) led by Prof. [Taku Komura](https://i.cs.hku.hk/~taku/).
+I am currently a postdoctoral researcher at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), France, in the [GeomeriX](https://team.inria.fr/geomerix/) team, working with Prof. [Mathieu Desbrun](https://pages.saclay.inria.fr/mathieu.desbrun/) and Dr. [Jiong Chen](https://jiongchen.github.io/). Before joining Inria, I spent several wonderful months as a postdoctoral fellow at the University of Hong Kong in the [CGVU Lab](https://hku-cg.github.io/) led by Prof. [Taku Komura](https://i.cs.hku.hk/~taku/).
 
 I received my PhD in July 2025 from the School of Computer Science at Peking University, China, under the supervision of Prof. [Baoquan Chen](https://baoquanchen.info/). I was a member of the [VCL Lab](https://vcl.pku.edu.cn/) and was also advised by Dr. [Bin Wang](https://binwangbfa.github.io/) and Dr. [Mengyu Chu](https://rachelcmy.github.io/). In fluid animation, I was additionally advised remotely by Dr. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/) at Georgia Tech, USA. Earlier, I graduated from the Turing Class at Peking University in July 2020 with dual bachelor's degrees in Computer Science and Physics.
 
