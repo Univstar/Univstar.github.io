@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xingyu Ni"
-description              : "Postdoctoral researcher at Inria, experienced in physically-based visual computing"
+description              : "Postdoctoral researcher at Inria Saclay, experienced in physically-based visual computing"
 repository               : "Univstar/Univstar.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xingyu Ni"
   avatar           : "images/avatar.jpg"
-  bio              : "Peking University"
-  location         : "Beijing, China"
+  bio              : "Inria Saclay"
+  location         : "Palaiseau, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rPPrJuoAAAAJ"
