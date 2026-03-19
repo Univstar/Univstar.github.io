@@ -5,6 +5,7 @@ main:
     journal: ACM Transactions on Graphics (TOG) 44, 6, Article 265. December 2025.
     doi: https://doi.org/10.1145/3763279
     pdf: https://arxiv.org/pdf/2504.00745
+    code: https://github.com/skytang0205/Granule-in-Cell
     youtube: https://youtu.be/HLCx-NnaQhM
     bilibili: https://www.bilibili.com/video/BV1C1JZziECX
     image: images/teaser_siga25gic.jpg
