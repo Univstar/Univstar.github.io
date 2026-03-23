@@ -1,4 +1,13 @@
 main:
+  - title: "Magnetic Modeling and Simulation for Computer Graphics"
+    authors: <strong>Xingyu Ni</strong><sup>†</sup>, Yuechen Zhu, Ruicheng Wang, Bin Wang
+    conference: Eurographics
+    journal: Computer Graphics Forum (CGF) 45, 2, e70418. May 2026.
+    doi:  https://doi.org/10.1111/cgf.70418
+    pdf: files/eg26magnetic.pdf
+    image: images/teaser_eg26magnetic.jpg
+    notes: State of the Art Report
+
   - title: "The Granule-In-Cell Method for Simulating Sand–Water Mixtures"
     authors: Yizao Tang<sup>*</sup>, Yuechen Zhu<sup>*</sup>, <strong>Xingyu Ni</strong><sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH Asia
@@ -13,7 +22,7 @@ main:
   - title: "Synthetic Video Enhances Physical Fidelity in Video Synthesis"
     authors: Qi Zhao, <strong>Xingyu Ni</strong>, Ziyu Wang, Feng Cheng, Ziyan Yang, Lu Jiang<sup>†</sup>, Bohan Wang<sup>†</sup>
     conference: ICCV
-    journal: 2025 IEEE/CVF International Conference on Computer Vision (ICCV). October 2025.
+    journal: 2025 IEEE/CVF International Conference on Computer Vision (ICCV), 12135–12146. October 2025.
     page: https://simulation.seaweed.video/
     pdf: https://arxiv.org/pdf/2503.20822
     image: images/teaser_iccv25seaweed.jpg
@@ -21,7 +30,7 @@ main:
   - title: "FlowCapX: Physics-Grounded Flow Capture with Long-Term Consistency"
     authors: Ningxiao Tao, Liru Zhang, <strong>Xingyu Ni</strong>, Mengyu Chu<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: Pacific Graphics
-    journal: Computer Graphics Forum (CGF) 44, 7. October 2025.
+    journal: Computer Graphics Forum (CGF) 44, 7, e70274. October 2025.
     doi: https://doi.org/10.1111/cgf.70274
     pdf: https://arxiv.org/pdf/2510.23122
     code: https://github.com/taoningxiao/FlowCapX
@@ -58,7 +67,7 @@ main:
   - title: "Simulating Thin Shells by Bicubic Hermite Elements"
     authors: <strong>Xingyu Ni</strong><sup>*</sup>, Xuwen Chen<sup>*</sup>, Cheng Yu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SPM
-    journal: Computer-Aided Design (CAD) 174, Article 103734. September 2024.
+    journal: Computer-Aided Design (CAD) 174, e103734. September 2024.
     doi: https://doi.org/10.1016/j.cad.2024.103734
     pdf: files/spm24shells.pdf
     image: images/teaser_spm24shells.jpg
