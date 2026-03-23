@@ -5,7 +5,7 @@ main:
     journal: Computer Graphics Forum (CGF) 45, 2. May 2026.
     doi:  https://doi.org/10.1111/cgf.xxxxx
     pdf: files/eg26magnetic.pdf
-    image: images/teaser_eg26magnetic
+    image: images/teaser_eg26magnetic.jpg
     notes: State of the Art Report
 
   - title: "The Granule-In-Cell Method for Simulating Sand–Water Mixtures"
