@@ -26,11 +26,11 @@ My research focuses on physically-based visual computing, with a specialization 
 
 
 # News
+- *2025/12* &nbsp;🎉🎉 Our survey has been conditionally accepted to Eurographics 2026.
 - *2025/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to SIGGRAPH Asia 2025.
 - *2025/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to Pacific Graphics 2025.
 - *2025/08* &nbsp;🎉🎉 Our paper has been awarded the Best Paper Award at SCA 2025.
 - *2025/07* &nbsp;🎉🎉 I received my PhD from Peking University.
-- *2025/06* &nbsp;🎉🎉 Our paper has been conditionally accepted to ICCV 2025.
 
 # Publications
 

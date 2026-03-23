@@ -1,4 +1,13 @@
 main:
+  - title: "Magnetic Modeling and Simulation for Computer Graphics"
+    authors: <strong>Xingyu Ni</strong><sup>†</sup>, Yuechen Zhu, Ruicheng Wang, Bin Wang
+    conference: Eurographics
+    journal: Computer Graphics Forum (CGF) 45, 2. May 2026.
+    doi:  https://doi.org/10.1111/cgf.xxxxx
+    pdf: files/eg26magnetic.pdf
+    image: images/teaser_eg26magnetic
+    notes: State of the Art Report
+
   - title: "The Granule-In-Cell Method for Simulating Sand–Water Mixtures"
     authors: Yizao Tang<sup>*</sup>, Yuechen Zhu<sup>*</sup>, <strong>Xingyu Ni</strong><sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH Asia
@@ -58,7 +67,7 @@ main:
   - title: "Simulating Thin Shells by Bicubic Hermite Elements"
     authors: <strong>Xingyu Ni</strong><sup>*</sup>, Xuwen Chen<sup>*</sup>, Cheng Yu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SPM
-    journal: Computer-Aided Design (CAD) 174, Article 103734. September 2024.
+    journal: Computer-Aided Design (CAD) 174, e103734. September 2024.
     doi: https://doi.org/10.1016/j.cad.2024.103734
     pdf: files/spm24shells.pdf
     image: images/teaser_spm24shells.jpg
