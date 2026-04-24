@@ -38,6 +38,12 @@ My research focuses on physically-based visual computing, with a specialization 
 
 {% include_relative _includes/publications.md %}
 
+# Projects
+
+Selected tools and codebases beyond publication-specific repositories.
+
+- [**SimViewer**](https://github.com/Univstar/SimViewer): Desktop visualization and export tooling for simulation outputs, built with modern C++, OpenGL, and ImGui for research workflows.
+
 # Teaching
 - *2024/03–2024/07* &nbsp;Instructor of [*GAMES001: Mathematics in Computer Graphics*](https://games-cn.org/games001/) (Online, 🇨🇳)
 - *2022/09–2023/01* &nbsp;Teaching Assistant of *Introduction to Visual Computing and Interaction* (Peking University, 🇨🇳)
