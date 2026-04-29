@@ -77,8 +77,9 @@ main:
     conference: SIGGRAPH
     journal: ACM Transactions on Graphics (TOG) 43, 4, Article 56. July 2024.
     doi: https://doi.org/10.1145/3658124
+    page: https://ferrofluid-simulation.github.io/
     pdf: files/sig24magnetic.pdf
-    code: https://github.com/Univstar/IoB-Ferrofluid-2D
+    code: https://github.com/ferrofluid-simulation/SimFerrofluid
     youtube: https://youtu.be/XFkFnVEyLj8
     bilibili: https://www.bilibili.com/video/BV1er421j7SW
     image: images/teaser_sig24magnetic.jpg
@@ -129,6 +130,7 @@ main:
     journal: ACM Transactions on Graphics (TOG) 39, 4, Article 29. August 2020.
     doi: https://doi.org/10.1145/3386569.3392445
     pdf: files/sig20magnetic.pdf
+    code: https://github.com/ferrofluid-simulation/SimFerrofluid
     youtube: https://youtu.be/0cCJKg3Oa9U
     bilibili: https://www.bilibili.com/video/BV1Xg4y1i7fa
     image: images/teaser_sig20magnetic.jpg
