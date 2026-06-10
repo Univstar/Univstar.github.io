@@ -1,4 +1,12 @@
 main:
+  - title: "Floating-Point Robustness in Parametric Surface Continuous Collision Detection: From Algorithm to Benchmarking"
+    authors: Xuwen Chen<sup>*</sup>, Junyu Wang<sup>*</sup>, Cheng Yu, <strong>Xingyu Ni</strong>, Meng Zhang, Bin Wang, Mengyu Chu<sup>†</sup>, Baoquan Chen<sup>†</sup>
+    conference: SIGGRAPH
+    journal: ACM Transactions on Graphics (TOG) 45, 4, Article 141. July 2026.
+    doi: https://doi.org/10.1145/3811310
+    pdf: https://xw-c.github.io/publications/sig26CCDdataset.pdf
+    image: images/teaser_sig26ccd.jpg
+
   - title: "Magnetic Modeling and Simulation for Computer Graphics"
     authors: <strong>Xingyu Ni</strong><sup>†</sup>, Yuechen Zhu, Ruicheng Wang, Bin Wang
     conference: Eurographics
