@@ -26,11 +26,11 @@ My research focuses on physically-based visual computing, with a specialization 
 
 
 # News
+- *2026/07* &nbsp;🎉🎉 Our three papers have been conditionally accepted to SIGGRAPH Asia 2026.
 - *2026/03* &nbsp;🎉🎉 Our paper has been conditionally accepted to SIGGRAPH 2026.
 - *2025/12* &nbsp;🎉🎉 Our survey has been conditionally accepted to Eurographics 2026.
 - *2025/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to SIGGRAPH Asia 2025.
 - *2025/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to Pacific Graphics 2025.
-- *2025/08* &nbsp;🎉🎉 Our paper has been awarded the Best Paper Award at SCA 2025.
 
 # Publications
 
@@ -52,7 +52,7 @@ Selected tools and codebases beyond publication-specific repositories.
 
 # Honors and Awards
 - *2022/08* &nbsp;Winner of [**Style3D Graduate Fellowship**](https://home.style3d.com/about/fellowshipprogram) (10 recipients nationwide)
-- *2021/01* &nbsp;Winner of [**ByteDance Scholars Program**](https://ur.bytedance.com/scholarship) (8 recipients nationwide)
+- *2021/01* &nbsp;Winner of [**ByteDance Scholars Program**](https://ur.bytedance.com/scholarship) (9 recipients nationwide)
 
 # Education
 - *2025/07* &nbsp;**Ph.D. in Computer Science** &nbsp;\|&nbsp; [School of Computer Science, Peking University](https://cs.pku.edu.cn/), China &nbsp;\|&nbsp; Supervisor: Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/)
