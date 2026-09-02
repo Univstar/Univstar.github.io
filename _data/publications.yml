@@ -1,6 +1,6 @@
 main:
   - title: "Efficient Open-Boundary Poisson Solves"
-    authors: Xingyu Ni, Jong Chen<sup>†</sup>, Siyuan Chen, Caoliwen Wang, Mathieu Desbrun, Taku Komura
+    authors: <strong>Xingyu Ni</strong>, Jong Chen<sup>†</sup>, Siyuan Chen, Caoliwen Wang, Mathieu Desbrun, Taku Komura
     conference: SIGGRAPH Asia
     journal: ACM Transactions on Graphics (TOG) 45, 6, Article 180. December 2026.
     doi: https://doi.org/10.1145/3842558
@@ -11,7 +11,7 @@ main:
     image: images/teaser_siga26poisson.jpg
 
   - title: "Neural Field Processing on Surfaces"
-    authors: Weizhou Liu, Xingyu Ni<sup>†</sup>, Mathieu Desbrun, Jiong Chen
+    authors: Weizhou Liu, <strong>Xingyu Ni</strong><sup>†</sup>, Mathieu Desbrun, Jiong Chen
     conference: SIGGRAPH Asia
     journal: Proceedings of the SIGGRAPH Asia 2026 Conference Papers, Article 149. December 2026.
     doi: https://doi.org/10.1145/3829340.3842300
