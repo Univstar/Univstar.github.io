@@ -1,6 +1,6 @@
 main:
   - title: "Efficient Open-Boundary Poisson Solves"
-    authors: <strong>Xingyu Ni</strong>, Jong Chen<sup>†</sup>, Siyuan Chen, Caoliwen Wang, Mathieu Desbrun, Taku Komura
+    authors: <strong>Xingyu Ni</strong>, Jiong Chen<sup>†</sup>, Siyuan Chen, Caoliwen Wang, Mathieu Desbrun, Taku Komura
     conference: SIGGRAPH Asia
     journal: ACM Transactions on Graphics (TOG) 45, 6, Article 180. December 2026.
     doi: https://doi.org/10.1145/3842558
