@@ -1,4 +1,26 @@
 main:
+  - title: "Efficient Open-Boundary Poisson Solves"
+    authors: Xingyu Ni, Jong Chen<sup>†</sup>, Siyuan Chen, Caoliwen Wang, Mathieu Desbrun, Taku Komura
+    conference: SIGGRAPH Asia
+    journal: ACM Transactions on Graphics (TOG) 45, 6, Article 180. December 2026.
+    doi: https://doi.org/10.1145/3842558
+    pdf: files/siga26poisson.pdf
+    code: https://gitlab.inria.fr/geomerix/public/OpenPoisson
+    youtube: https://youtu.be/I-1rUqzrMPE
+    bilibili: https://www.bilibili.com/video/BV1xatU6XE4i
+    image: images/teaser_siga26poisson.jpg
+
+  - title: "Neural Field Processing on Surfaces"
+    authors: Weizhou Liu, Xingyu Ni<sup>†</sup>, Mathieu Desbrun, Jiong Chen
+    conference: SIGGRAPH Asia
+    journal: Proceedings of the SIGGRAPH Asia 2026 Conference Papers, Article 149. December 2026.
+    doi: https://doi.org/10.1145/3829340.3842300
+    pdf: files/siga26cpm.pdf
+    code: https://gitlab.inria.fr/geomerix/public/NeuralCPM
+    youtube: https://youtu.be/63xHJuvK5Jk
+    bilibili: https://www.bilibili.com/video/BV11atU6XEis
+    image: images/teaser_siga26cpm.jpg
+
   - title: "Floating-Point Robustness in Parametric Surface Continuous Collision Detection: From Algorithm to Benchmarking"
     authors: Xuwen Chen<sup>*</sup>, Junyu Wang<sup>*</sup>, Cheng Yu, <strong>Xingyu Ni</strong>, Meng Zhang, Bin Wang, Mengyu Chu<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH
@@ -30,7 +52,7 @@ main:
   - title: "Synthetic Video Enhances Physical Fidelity in Video Synthesis"
     authors: Qi Zhao, <strong>Xingyu Ni</strong>, Ziyu Wang, Feng Cheng, Ziyan Yang, Lu Jiang<sup>†</sup>, Bohan Wang<sup>†</sup>
     conference: ICCV
-    journal: 2025 IEEE/CVF International Conference on Computer Vision (ICCV), 12135–12146. October 2025.
+    journal: Proceedings of the 2025 IEEE/CVF International Conference on Computer Vision (ICCV), 12135–12146. October 2025.
     page: https://simulation.seaweed.video/
     pdf: https://arxiv.org/pdf/2503.20822
     image: images/teaser_iccv25seaweed.jpg
@@ -57,7 +79,7 @@ main:
   - title: "RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting"
     authors: Qiyu Dai<sup>*</sup>, <strong>Xingyu Ni</strong><sup>*</sup>, Qianfan Shen, Wenzheng Chen<sup>†</sup>, Baoquan Chen<sup>†</sup>, Mengyu Chu<sup>†</sup>
     conference: CVPR
-    journal: 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 16153–16162. June 2025.
+    journal: Proceedings of the 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 16153–16162. June 2025.
     doi: https://doi.org/10.1109/CVPR52734.2025.01506
     page: https://pku-vcl-geometry.github.io/RainyGS/
     pdf: https://arxiv.org/pdf/2503.21442
