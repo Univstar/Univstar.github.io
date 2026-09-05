@@ -21,6 +21,16 @@ main:
     bilibili: https://www.bilibili.com/video/BV11atU6XEis
     image: images/teaser_siga26cpm.jpg
 
+  - title: "Unified Simulation of Lagrangian Particle Dynamics via Transformer"
+    authors: Caoliwen Wang<sup>*</sup>, Minghao Guo<sup>*†</sup>, Siyuan Chen<sup>*</sup>, Heng Zhang, Mengdi Wang, <strong>Xingyu Ni</strong>, Hanson Sun, Kunyi Wang, Zherong Pan, Kui Wu, Lingjie Liu, Yin Yang, Chenfanfu Jiang, Taku Komura, Wojciech Matusik, Peter Yichen Chen<sup>†</sup>
+    conference: SIGGRAPH Asia
+    journal: Proceedings of the SIGGRAPH Asia 2026 Conference Papers, Article 106. December 2026.
+    doi: https://doi.org/10.1145/3829340.3842257
+    page: https://worldparticle.github.io/WorldParticle_Web
+    pdf: https://arxiv.org/pdf/2605.15305
+    code: https://github.com/WorldParticle/WorldParticle
+    image: images/teaser_siga26particle.jpg
+
   - title: "Floating-Point Robustness in Parametric Surface Continuous Collision Detection: From Algorithm to Benchmarking"
     authors: Xuwen Chen<sup>*</sup>, Junyu Wang<sup>*</sup>, Cheng Yu, <strong>Xingyu Ni</strong>, Meng Zhang, Bin Wang, Mengyu Chu<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH
