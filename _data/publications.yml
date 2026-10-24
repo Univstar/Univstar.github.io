@@ -1,8 +1,10 @@
 main:
   - title: "Efficient Open-Boundary Poisson Solves"
+    date: "December 2026"
+    selected: true
     authors: <strong>Xingyu Ni</strong>, Jiong Chen<sup>†</sup>, Siyuan Chen, Caoliwen Wang, Mathieu Desbrun, Taku Komura
     conference: SIGGRAPH Asia
-    journal: ACM Transactions on Graphics (TOG) 45, 6, Article 180. December 2026.
+    journal: ACM Transactions on Graphics (TOG) 45, 6, Article 180.
     doi: https://doi.org/10.1145/3842558
     pdf: files/siga26poisson.pdf
     code: https://gitlab.inria.fr/geomerix/public/OpenPoisson
@@ -11,9 +13,11 @@ main:
     image: images/teaser_siga26poisson.jpg
 
   - title: "Neural Field Processing on Surfaces"
+    date: "December 2026"
+    selected: true
     authors: Weizhou Liu, <strong>Xingyu Ni</strong><sup>†</sup>, Mathieu Desbrun, Jiong Chen
     conference: SIGGRAPH Asia
-    journal: Proceedings of the SIGGRAPH Asia 2026 Conference Papers, Article 149. December 2026.
+    journal: Proceedings of the SIGGRAPH Asia 2026 Conference Papers, Article 149.
     doi: https://doi.org/10.1145/3829340.3842300
     pdf: files/siga26cpm.pdf
     code: https://gitlab.inria.fr/geomerix/public/NeuralCPM
@@ -22,9 +26,10 @@ main:
     image: images/teaser_siga26cpm.jpg
 
   - title: "Unified Simulation of Lagrangian Particle Dynamics via Transformer"
+    date: "December 2026"
     authors: Caoliwen Wang<sup>*</sup>, Minghao Guo<sup>*†</sup>, Siyuan Chen<sup>*</sup>, Heng Zhang, Mengdi Wang, <strong>Xingyu Ni</strong>, Hanson Sun, Kunyi Wang, Zherong Pan, Kui Wu, Lingjie Liu, Yin Yang, Chenfanfu Jiang, Taku Komura, Wojciech Matusik, Peter Yichen Chen<sup>†</sup>
     conference: SIGGRAPH Asia
-    journal: Proceedings of the SIGGRAPH Asia 2026 Conference Papers, Article 106. December 2026.
+    journal: Proceedings of the SIGGRAPH Asia 2026 Conference Papers, Article 106.
     doi: https://doi.org/10.1145/3829340.3842257
     page: https://worldparticle.github.io/WorldParticle_Web
     pdf: https://arxiv.org/pdf/2605.15305
@@ -32,26 +37,31 @@ main:
     image: images/teaser_siga26particle.jpg
 
   - title: "Floating-Point Robustness in Parametric Surface Continuous Collision Detection: From Algorithm to Benchmarking"
+    date: "July 2026"
     authors: Xuwen Chen<sup>*</sup>, Junyu Wang<sup>*</sup>, Cheng Yu, <strong>Xingyu Ni</strong>, Meng Zhang, Bin Wang, Mengyu Chu<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH
-    journal: ACM Transactions on Graphics (TOG) 45, 4, Article 141. July 2026.
+    journal: ACM Transactions on Graphics (TOG) 45, 4, Article 141.
     doi: https://doi.org/10.1145/3811310
     pdf: https://xw-c.github.io/publications/sig26CCDdataset.pdf
     image: images/teaser_sig26ccd.jpg
 
   - title: "Magnetic Modeling and Simulation for Computer Graphics"
+    date: "May 2026"
+    selected: true
     authors: <strong>Xingyu Ni</strong><sup>†</sup>, Yuechen Zhu, Ruicheng Wang, Bin Wang
     conference: Eurographics
-    journal: Computer Graphics Forum (CGF) 45, 2, e70418. May 2026.
+    journal: Computer Graphics Forum (CGF) 45, 2, e70418.
     doi:  https://doi.org/10.1111/cgf.70418
     pdf: files/eg26magnetic.pdf
     image: images/teaser_eg26magnetic.jpg
     notes: State of the Art Report
 
   - title: "The Granule-In-Cell Method for Simulating Sand–Water Mixtures"
+    date: "December 2025"
+    selected: true
     authors: Yizao Tang<sup>*</sup>, Yuechen Zhu<sup>*</sup>, <strong>Xingyu Ni</strong><sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH Asia
-    journal: ACM Transactions on Graphics (TOG) 44, 6, Article 265. December 2025.
+    journal: ACM Transactions on Graphics (TOG) 44, 6, Article 265.
     doi: https://doi.org/10.1145/3763279
     pdf: https://arxiv.org/pdf/2504.00745
     code: https://github.com/skytang0205/Granule-in-Cell
@@ -60,26 +70,30 @@ main:
     image: images/teaser_siga25gic.jpg
 
   - title: "Synthetic Video Enhances Physical Fidelity in Video Synthesis"
+    date: "October 2025"
     authors: Qi Zhao, <strong>Xingyu Ni</strong>, Ziyu Wang, Feng Cheng, Ziyan Yang, Lu Jiang<sup>†</sup>, Bohan Wang<sup>†</sup>
     conference: ICCV
-    journal: Proceedings of the 2025 IEEE/CVF International Conference on Computer Vision (ICCV), 12135–12146. October 2025.
+    journal: Proceedings of the 2025 IEEE/CVF International Conference on Computer Vision (ICCV), 12135–12146.
     page: https://simulation.seaweed.video/
     pdf: https://arxiv.org/pdf/2503.20822
     image: images/teaser_iccv25seaweed.jpg
 
   - title: "FlowCapX: Physics-Grounded Flow Capture with Long-Term Consistency"
+    date: "October 2025"
     authors: Ningxiao Tao, Liru Zhang, <strong>Xingyu Ni</strong>, Mengyu Chu<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: Pacific Graphics
-    journal: Computer Graphics Forum (CGF) 44, 7, e70274. October 2025.
+    journal: Computer Graphics Forum (CGF) 44, 7, e70274.
     doi: https://doi.org/10.1111/cgf.70274
     pdf: https://arxiv.org/pdf/2510.23122
     code: https://github.com/taoningxiao/FlowCapX
     image: images/teaser_pg25flow.jpg
     
   - title: "Representing Flow Fields with Divergence-Free Kernels for Reconstruction"
+    date: "August 2025"
+    selected: true
     authors: <strong>Xingyu Ni</strong>, Jingrui Xing, Xingqiao Li, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SCA
-    journal: Proceedings of the ACM on Computer Graphics and Interactive Techniques (PACMCGIT) 8, 4, Article 52. August 2025.
+    journal: Proceedings of the ACM on Computer Graphics and Interactive Techniques (PACMCGIT) 8, 4, Article 52.
     doi: https://doi.org/10.1145/3747872
     pdf: files/sca25dfk.pdf
     code: https://github.com/Univstar/CFR-DFK
@@ -87,35 +101,42 @@ main:
     notes: Best Paper Award
 
   - title: "RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting"
+    date: "June 2025"
+    selected: true
     authors: Qiyu Dai<sup>*</sup>, <strong>Xingyu Ni</strong><sup>*</sup>, Qianfan Shen, Wenzheng Chen<sup>†</sup>, Baoquan Chen<sup>†</sup>, Mengyu Chu<sup>†</sup>
     conference: CVPR
-    journal: Proceedings of the 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 16153–16162. June 2025.
+    journal: Proceedings of the 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 16153–16162.
     doi: https://doi.org/10.1109/CVPR52734.2025.01506
     page: https://pku-vcl-geometry.github.io/RainyGS/
     pdf: https://arxiv.org/pdf/2503.21442
     image: images/teaser_cvpr25rainy.jpg
 
   - title: "A Time-Dependent Inclusion-Based Method for Continuous Collision Detection between Parametric Surfaces"
+    date: "December 2024"
     authors: Xuwen Chen, Cheng Yu, <strong>Xingyu Ni</strong>, Mengyu Chu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH Asia
-    journal: ACM Transactions on Graphics (TOG) 43, 6, Article 223. December 2024.
+    journal: ACM Transactions on Graphics (TOG) 43, 6, Article 223.
     doi: https://doi.org/10.1145/3687960
     pdf: files/siga24ccd.pdf
     code: https://github.com/xw-c/TDIB-CCD
     image: images/teaser_siga24ccd.jpg
     
   - title: "Simulating Thin Shells by Bicubic Hermite Elements"
+    date: "September 2024"
+    selected: true
     authors: <strong>Xingyu Ni</strong><sup>*</sup>, Xuwen Chen<sup>*</sup>, Cheng Yu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SPM
-    journal: Computer-Aided Design (CAD) 174, e103734. September 2024.
+    journal: Computer-Aided Design (CAD) 174, e103734.
     doi: https://doi.org/10.1016/j.cad.2024.103734
     pdf: files/spm24shells.pdf
     image: images/teaser_spm24shells.jpg
     
   - title: "An Induce-on-Boundary Magnetostatic Solver for Grid-Based Ferrofluids"
+    date: "July 2024"
+    selected: true
     authors: <strong>Xingyu Ni</strong><sup>*</sup>, Ruicheng Wang<sup>*</sup>, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH
-    journal: ACM Transactions on Graphics (TOG) 43, 4, Article 56. July 2024.
+    journal: ACM Transactions on Graphics (TOG) 43, 4, Article 56.
     doi: https://doi.org/10.1145/3658124
     page: https://ferrofluid-simulation.github.io/
     pdf: files/sig24magnetic.pdf
@@ -126,16 +147,19 @@ main:
     notes: Technical Papers Trailer
 
   - title: "Programming Structural and Magnetic Anisotropy for Tailored Interaction and Control of Soft Microrobots"
+    date: "January 2024"
     authors: Yimo Yan, Chao Song, Zaiyi Shen, Yuechen Zhu, <strong>Xingyu Ni</strong>, Bin Wang, Michael G. Christiansen, Stavros Stavrakis, Juho S. Lintuvuori, Baoquan Chen, Andrew deMello<sup>†</sup>, Simone Schuerle<sup>†</sup>
-    journal: Communications Engineering 3, Article 7. January 2024.
+    journal: Communications Engineering 3, Article 7.
     doi: https://doi.org/10.1038/s44172-023-00145-5
     image: images/teaser_commseng24.jpg
     notes: Featured Article
 
   - title: "GARM-LS: A Gradient-Augmented Reference-Map Method for Level-Set Fluid Simulation"
+    date: "December 2023"
+    selected: true
     authors: Xingqiao Li<sup>*</sup>, <strong>Xingyu Ni</strong><sup>*</sup>, Bo Zhu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH Asia
-    journal: ACM Transactions on Graphics (TOG) 42, 6, Article 192. December 2023.
+    journal: ACM Transactions on Graphics (TOG) 42, 6, Article 192.
     doi: https://doi.org/10.1145/3618377
     pdf: files/siga23levelset.pdf
     code: https://github.com/li-xingqiao/GARM-LS
@@ -145,9 +169,10 @@ main:
     notes: Technical Papers Trailer
 
   - title: "Simulation and Optimization of Magnetoelastic Thin Shells"
+    date: "July 2022"
     authors: Xuwen Chen, <strong>Xingyu Ni</strong>, Bo Zhu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH
-    journal: ACM Transactions on Graphics (TOG) 41, 4, Article 61. July 2022.
+    journal: ACM Transactions on Graphics (TOG) 41, 4, Article 61.
     doi: https://doi.org/10.1145/3528223.3530142
     pdf: files/sig22magnetic.pdf
     youtube: https://youtu.be/TeHcg75m9Vw
@@ -155,9 +180,11 @@ main:
     image: images/teaser_sig22magnetic.jpg
 
   - title: "A Material Point Method for Nonlinearly Magnetized Materials"
+    date: "December 2021"
+    selected: true
     authors: Yuchen Sun<sup>*</sup>, <strong>Xingyu Ni</strong><sup>*</sup>, Bo Zhu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH Asia
-    journal: ACM Transactions on Graphics (TOG) 40, 6, Article 205. December 2021.
+    journal: ACM Transactions on Graphics (TOG) 40, 6, Article 205.
     doi: https://doi.org/10.1145/3478513.3480541
     pdf: files/siga21magnetic.pdf
     youtube: https://youtu.be/2zqJ1wvverA
@@ -165,9 +192,11 @@ main:
     image: images/teaser_siga21magnetic.jpg
 
   - title: "A Level-Set Method for Magnetic Substance Simulation"
+    date: "August 2020"
+    selected: true
     authors: <strong>Xingyu Ni</strong>, Bo Zhu, Bin Wang<sup>†</sup>, Baoquan Chen<sup>†</sup>
     conference: SIGGRAPH
-    journal: ACM Transactions on Graphics (TOG) 39, 4, Article 29. August 2020.
+    journal: ACM Transactions on Graphics (TOG) 39, 4, Article 29.
     doi: https://doi.org/10.1145/3386569.3392445
     pdf: files/sig20magnetic.pdf
     code: https://github.com/ferrofluid-simulation/SimFerrofluid
@@ -176,7 +205,8 @@ main:
     image: images/teaser_sig20magnetic.jpg
 
   - title: "Visual Data Analysis and Simulation Prediction for COVID-19"
+    date: "March 2020"
     authors: Baoquan Chen<sup>†</sup>, Mingyi Shi, <strong>Xingyu Ni</strong>, Liangwang Ruan, Hongda Jiang, Heyuan Yao, Mengdi Wang, Zhenhua Song, Qiang Zhou, Tong Ge
-    journal: International Journal of Educational Excellence 6, 1, 95–114. March 2020.
+    journal: International Journal of Educational Excellence 6, 1, 95–114.
     doi: https://doi.org/10.18562/ijee.055
     image: images/teaser_ijee20.png

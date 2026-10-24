@@ -20,7 +20,7 @@
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li>{% if author.location_url %}<a href="{{ author.location_url | escape }}">{% endif %}<i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}{% if author.location_url %}</a>{% endif %}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>

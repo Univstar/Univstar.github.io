@@ -1,9 +1,28 @@
 <div class="publications">
-<ol class="bibliography">
+<div class="publication-toolbar">
+<div class="publication-filters" hidden>
+  <label class="publication-year" for="publication-year">Year
+    <select id="publication-year" aria-controls="publication-list">
+      <option value="all">All years</option>
+      {% capture publication_years %}{% for publication in site.data.publications.main %}{{ publication.date | date: '%Y' }} {% endfor %}{% endcapture %}
+      {% assign publication_years = publication_years | split: ' ' | uniq | sort | reverse %}
+      {% for year in publication_years %}
+      <option value="{{ year }}">{{ year }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label class="publication-selected" for="publication-selected">
+    <input type="checkbox" id="publication-selected" aria-controls="publication-list"> Selected
+  </label>
+</div>
+<em class="publication-author-note">(*: joint 1st authors, †: corresponding authors)</em>
+</div>
+<p class="publication-empty" role="status" hidden>No publications match these filters.</p>
+<ol class="bibliography" id="publication-list">
 
 {% for link in site.data.publications.main %}
 
-<li>
+<li data-year="{{ link.date | date: '%Y' }}" data-selected="{% if link.selected %}true{% else %}false{% endif %}">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
@@ -20,7 +39,7 @@
       <div class="title"><a href="{{ link.doi }}">{{ link.title }}</a></div>
       {% endif %}
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.journal }}</em>
+      <div class="periodical"><em>{{ link.journal }}{% if link.date %} {{ link.date | date: '%B %Y' }}.{% endif %}</em>
       </div>
     <div class="links">
       {% if link.doi %} 
@@ -54,8 +73,6 @@
   </div>
 </div>
 </li>
-
-<br>
 
 {% endfor %}
 

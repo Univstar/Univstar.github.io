@@ -27,7 +27,62 @@
 
 blockquote { background: var(--global-bg-color); border-left: 2px solid var(--global-theme-color); margin: 1.5em 10px; padding: 0.5em 10px; font-size: 1.2rem; }
 
-.publications { margin-top: 2rem; }
+.publications { margin-top: 0.5rem; }
+
+.publications [hidden] { display: none !important; }
+
+.publication-toolbar,
+.publication-filters {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.4rem 1rem;
+    font-size: 0.875rem;
+}
+
+.publication-toolbar { margin-bottom: 1rem; }
+
+.publication-year select {
+    margin: 0;
+    padding: 0.2rem 0.5rem;
+    min-height: 1.75rem;
+    border: 1px solid #cbd3dd;
+    border-radius: 4px;
+    background: var(--global-bg-color);
+    color: inherit;
+    font: inherit;
+    line-height: 1.4;
+    cursor: pointer;
+}
+
+.publication-year select:hover { border-color: currentColor; }
+
+.publication-selected input:focus-visible,
+.publication-year select:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 3px;
+}
+
+.publication-year,
+.publication-selected {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0;
+    font: inherit;
+}
+
+.publication-year select { width: auto; }
+.publication-selected { min-height: 1.75rem; cursor: pointer; }
+.publication-selected input[type="checkbox"] {
+    width: 0.75rem;
+    height: 0.75rem;
+    margin: 0;
+    color: inherit;
+    accent-color: currentColor;
+    cursor: pointer;
+}
+.publication-empty { color: #5e6873; }
 
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
 
@@ -39,7 +94,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography { list-style: none; padding: 0; margin-top: 0; }
 
-.publications ol.bibliography li { min-height: 110px; margin-bottom: 0.5rem; }
+.publications ol.bibliography li { min-height: 110px; margin-bottom: 1.5rem; }
 
 .publications ol.bibliography li .abbr { height: 8rem; margin-bottom: 0.5rem; }
 

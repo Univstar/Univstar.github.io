@@ -25,6 +25,7 @@ author:
   avatar           : "images/avatar.jpg"
   bio              : "Inria Saclay"
   location         : "Palaiseau, France"
+  location_url     : "https://maps.app.goo.gl/XJ2PPbU1qL96hK47A"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rPPrJuoAAAAJ"
