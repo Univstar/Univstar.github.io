@@ -119,6 +119,47 @@
   }
 }
 
+#news-list {
+  margin-bottom: 0.5em;
+}
+
+@media screen {
+  .news-collapsed > li:nth-child(n + 6) {
+    display: none;
+  }
+
+  .news-expanded {
+    /* Ten single-line entries with the theme's line height and item spacing. */
+    max-height: 20em;
+    overflow-y: auto;
+  }
+}
+
+@media screen and (max-width: 40em) {
+  .news-expanded {
+    max-height: 50vh;
+  }
+}
+
+.news-toggle {
+  padding: 0.25em 0;
+  border: 0;
+  background: transparent;
+  color: #069;
+  font: inherit;
+  cursor: pointer;
+}
+
+.news-toggle:hover, .news-toggle:focus-visible {
+  text-decoration: underline;
+}
+
+@media print {
+  .news-toggle {
+    display: none;
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;

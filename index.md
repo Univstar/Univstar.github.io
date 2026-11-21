@@ -26,11 +26,8 @@ My research focuses on physically-based visual computing, with a specialization 
 
 
 # News
-- *2026/07* &nbsp;🎉🎉 Our three papers have been conditionally accepted to SIGGRAPH Asia 2026.
-- *2026/03* &nbsp;🎉🎉 Our paper has been conditionally accepted to SIGGRAPH 2026.
-- *2025/12* &nbsp;🎉🎉 Our survey has been conditionally accepted to Eurographics 2026.
-- *2025/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to SIGGRAPH Asia 2025.
-- *2025/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to Pacific Graphics 2025.
+
+{% include news.html %}
 
 # Publications
 
