@@ -39,6 +39,11 @@ Selected tools and codebases beyond publication-specific repositories.
 
 - [**SimViewer**](https://github.com/Univstar/SimViewer): Desktop visualization and export tooling for simulation outputs, built with modern C++, OpenGL, and ImGui for research workflows.
 
+# Services
+- **Program committee:** *SIGGRAPH* 2027; *Symposium on Computer Animation (SCA)* 2026; *Pacific Graphics (PG)* 2026; *Computational Visual Media (CVM)* 2027
+- **Journal reviewer:** *ACM Transactions on Graphics (TOG)* 2025, 2026; *IEEE Transactions on Visualization and Computer Graphics (TVCG)* 2026; *Nature Machine Intelligence (NMI)* 2026; *Pattern Recognition (PR)* 2026
+- **Conference reviewer:** *SIGGRAPH* 2024, 2025, 2026; *SIGGRAPH Asia* 2024, 2025, 2026; *Eurographics (EG)* 2023, 2024, 2025, 2026; *Pacific Graphics (PG)* 2024, 2025, 2026; *Symposium on Computer Animation (SCA)* 2025, 2026; *ICLR* 2027; *CVPR* 2027
+
 # Teaching
 - *2024/03–2024/07* &nbsp;Instructor of [*GAMES001: Mathematics in Computer Graphics*](https://games-cn.org/games001/) (Online, 🇨🇳)
 - *2022/09–2023/01* &nbsp;Teaching Assistant of *Introduction to Visual Computing and Interaction* (Peking University, 🇨🇳)

@@ -12,6 +12,9 @@ main:
   - title: "Projects"
     url: "/#projects"
 
+  - title: "Services"
+    url: "/#services"
+
   - title: "Teaching"
     url: "/#teaching"
 
